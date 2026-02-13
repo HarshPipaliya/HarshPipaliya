@@ -3,7 +3,6 @@
 🚀 **Full Stack Developer** | Building modern, scalable web applications  
 💡 Passionate about clean code, performance, and great user experience  
 
----
 
 ## 🧑‍💻 About Me
 
