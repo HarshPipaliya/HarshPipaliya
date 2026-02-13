@@ -20,6 +20,7 @@
 - HTML, CSS, JavaScript
 - React.js, Next.js, Angular
 - TypeScript
+- Tailwind, MUI, Antd, SCSS, Styled Components, RizzUI
 
 ### Backend
 - Node.js, Express.js, NestJS
