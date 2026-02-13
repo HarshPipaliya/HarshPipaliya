@@ -4,6 +4,7 @@
 💡 Passionate about clean code, performance, and great user experience  
 
 
+
 ## 🧑‍💻 About Me
 
 - 💻 Full Stack Developer with experience in modern web technologies  
@@ -11,7 +12,8 @@
 - 🛠️ I work across frontend, backend, and cloud deployments  
 - 🌱 Always learning and improving my craft  
 
----
+
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +40,8 @@
 ### Tools
 - Git, GitHub
 
----
+
+
 
 ## 📈 What I Focus On
 
