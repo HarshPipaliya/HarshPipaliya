@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsh Pipaliya
+# 💫 Hi, I'm Harsh Pipaliya
 
 🚀 **Full Stack Developer** | Building modern, scalable web applications  
 💡 Passionate about clean code, performance, and great user experience  
